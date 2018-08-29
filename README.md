@@ -105,3 +105,7 @@ diagram1.jpg.jpg
 Working entirely within the start directory defined by the application, try to probe to understand all of the filters being implemented, and see whether each can be bypassed individually with the techniques described.
 
 Of course, if you have white box access to the application, then your task is much easier, because you can systematically work through different types of input and verify conclusively what filename (if any) is actually reaching the file system.
+
+
+
+Copied from: https://tipstrickshack.blogspot.com/2013/02/how-to-bypassing-filter-to-traversal_8831.html
